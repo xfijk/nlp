@@ -1,0 +1,1 @@
+We observe the pattern on the tablet and infer that the symbol "<" represents the number 10 and the symbol "Y" represents the number 1 and the babylonian numbers are under Sexagesimal system(base 60).
